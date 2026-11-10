@@ -1,0 +1,12 @@
+# ==============================================================================
+# Proyecto: Sistema Punto de Venta e Inventario (Tkinter + SQLite3)
+# Materia: Tópicos Avanzados de Programación - Unidad 1
+# ==============================================================================
+# El sistema utiliza la biblioteca estándar de Python (módulos tkinter, sqlite3,
+# hashlib y csv), por lo que funciona al 100% de manera nativa sin necesidad
+# obligatoria de instalar paquetes externos adicionales.
+#
+# Stack opcional para extensiones o empaquetado (opcional):
+# pillow>=10.0.0
+# matplotlib>=3.8.0
+# pyinstaller>=6.0.0
