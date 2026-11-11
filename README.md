@@ -1,8 +1,10 @@
 # Mini Punto de Venta e Inventario (Tkinter + SQLite3)
 **Materia:** Tópicos Avanzados de Programación · Unidad 1 (Proyecto Final)  
 **Opción Elegida:** Opción 2 — Inventario / Mini punto de venta  
-**Estudiante:** José Escorcia  
-**Repositorio:** `tap-u1-punto-de-venta`
+**Estudiante:** José Alberto Escorcia  
+**Usuario de GitHub:** `josealbertohescorcia-boop`  
+**Repositorio:** `tap-u1-punto-de-venta`  
+**URL del Repositorio:** `https://github.com/josealbertohescorcia-boop/tap-u1-punto-de-venta`
 
 ---
 
